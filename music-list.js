@@ -20,11 +20,17 @@ let allMusic = [
     img: "henmotmai",
     src: "henmotmai"
   },
-  {
+    {
     name: "Thái Bình mồ hôi rơi",
     artist: "Sơn Tùng M-TP",
-    img: "tbm",
+    img: "thaibinhmohoiroi",
     src: "Thaibinhmohoiroi"
+  },
+    {
+    name: "Ngủ ngoan em nhé",
+    artist: "Grey",
+    img: "Nd",
+    src: "Nd"
   }
   ]
   
