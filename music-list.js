@@ -23,7 +23,7 @@ let allMusic = [
   {
     name: "Thái Bình mồ hôi rơi",
     artist: "Sơn Tùng M-TP",
-    img: "dtg",
+    img: "tbm",
     src: "Thaibinhmohoiroi"
   }
   ]
