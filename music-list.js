@@ -25,12 +25,6 @@ let allMusic = [
     artist: "Sơn Tùng M-TP",
     img: "thaibinhmohoiroi",
     src: "thaibinhmohoiroi"
-  },
-    {
-    name: "Chỉ Muốn Bên Em Lúc Này",
-    artist: "Huy Vạc",
-    img: "ChiMuonBenEmLucNay",
-    src: "ChiMuonBenEmLucNay"
   }
   ]
   
