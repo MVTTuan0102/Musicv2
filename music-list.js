@@ -37,6 +37,12 @@ let allMusic = [
     artist: "1",
     img: "jmg7",
     src: "Tn"
+    },    
+    {
+    name: "Gặp người đúng lúc",
+    artist: "United idol",
+    img: "gndl",
+    src: "gndl"
     }
   ]
   
