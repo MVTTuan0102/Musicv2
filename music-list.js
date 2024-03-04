@@ -37,7 +37,13 @@ let allMusic = [
     artist: "Michael Jackson",
     img: "yanal",
     src: "yanal"
-  }
+  },
+    {
+    name: "1",
+    artist: "1",
+    img: "jmg7",
+    src: "Tn"
+    }
   ]
   
   
