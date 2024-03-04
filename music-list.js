@@ -33,12 +33,6 @@ let allMusic = [
     src: "Nd"
   },
     {
-    name: "You are not alone",
-    artist: "Michael Jackson",
-    img: "yanal",
-    src: "yanal"
-  },
-    {
     name: "1",
     artist: "1",
     img: "jmg7",
