@@ -43,7 +43,13 @@ let allMusic = [
     artist: "United idol",
     img: "gndl",
     src: "gndl"
-    }
+    },
+    {
+    name: "Sai người sai thời điểm",
+    artist: "Thanh Hưng x MewMew",
+    img: "snstd",
+    src: "snstd"
+}
   ]
   
   
