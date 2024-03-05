@@ -49,7 +49,14 @@ let allMusic = [
     artist: "Thanh Hưng x MewMew",
     img: "snstd",
     src: "snstd"
-}
+},
+        {
+    name: "Sau tất cả",
+    artist: "Erik"
+    img: "stc",
+    src: "stc"
+        }
+    
   ]
   
   
