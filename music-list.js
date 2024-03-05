@@ -52,7 +52,7 @@ let allMusic = [
 },
         {
     name: "Sau tất cả",
-    artist: "Erik"
+    artist: "Erik",
     img: "stc",
     src: "stc"
         }
