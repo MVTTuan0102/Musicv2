@@ -32,7 +32,8 @@ body{
   overflow: hidden;
   position: relative;
   border-radius: 15px;
-  background: var(--white);
+ /* background: var(--white); */
+  background: linear-gradient(#9ce3ff 10%, #fd878d 90%) ;
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
 .wrapper i{
