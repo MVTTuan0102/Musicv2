@@ -73,7 +73,13 @@ let allMusic = [
     artist: "Jack - J97 x Freak D",
     img: "4",
     src: "4"
-}
+},
+    {
+    name: "Cuối cùng thì",
+    artist: "Jack",
+    img: "5",
+    src: "5"
+    }
     
   ]
   
