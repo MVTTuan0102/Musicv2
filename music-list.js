@@ -67,7 +67,13 @@ let allMusic = [
     artist: "3",
     img: "",
     src: "3"
-        }
+        },
+    {
+    name: "4",
+    artist: "4",
+    img: "",
+    src: "4"
+}
     
   ]
   
