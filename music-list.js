@@ -69,9 +69,9 @@ let allMusic = [
     src: "3"
         },
     {
-    name: "4",
-    artist: "4",
-    img: "",
+    name: "Chúng ta rồi sẽ hạnh phúc",
+    artist: "Jack - J97 x Freak D",
+    img: "4",
     src: "4"
 }
     
