@@ -82,7 +82,7 @@ let allMusic = [
     },
     {
     name: "Nắng có mang em về",
-    artist: "Shartnuss ft Tr.D & Phankeo | EP "Luv" ",
+    artist: "Shartnuss ft Tr.D & Phankeo | EP  ",
     img: "ncmev",
     src: "ncmev"
     }
