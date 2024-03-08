@@ -63,9 +63,9 @@ let allMusic = [
     src: "2"
 },
     {
-    name: "3",
-    artist: "3",
-    img: "",
+    name: "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+    artist: "O lew",
+    img: "3",
     src: "3"
         },
     {
