@@ -79,6 +79,12 @@ let allMusic = [
     artist: "Jack",
     img: "5",
     src: "5"
+    },
+    {
+    name: "Nắng có mang em về",
+    artist: "Shartnuss ft Tr.D & Phankeo | EP "Luv" ",
+    img: "ncmev",
+    src: "ncmev"
     }
     
   ]
