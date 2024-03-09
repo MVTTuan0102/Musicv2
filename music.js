@@ -11,6 +11,7 @@ progressBar = progressArea.querySelector(".progress-bar"),
 musicList = wrapper.querySelector(".music-list"),
 moreMusicBtn = wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
+const imgarea = document.querySelector('.img-area');
 
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
@@ -18,6 +19,12 @@ isMusicPaused = true;
 window.addEventListener("load", ()=>{
   loadMusic(musicIndex);
   playingSong(); 
+});
+
+
+playPauseBtn.addEventListener('click',()=>{
+    playPauseBtn.classList.toggle('pause');
+    imgarea.classList.toggle('player');
 });
 
 function loadMusic(indexNumb){
