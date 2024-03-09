@@ -57,9 +57,9 @@ let allMusic = [
     src: "stc"
         },
     {
-    name: "2",
-    artist: "2",
-    img: "",
+    name: "Hoa cỏ lau",
+    artist: "QN LVK",
+    img: "2",
     src: "2"
 },
     {
