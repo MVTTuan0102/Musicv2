@@ -66,10 +66,10 @@ function nextMusic(){
 // play or pause button event
 playPauseBtn.addEventListener("click", ()=>{
   const isMusicPlay = wrapper.classList.contains("paused");
-  imgarea.classList.toggle('player');
   //if isPlayMusic is true then call pauseMusic else call playMusic
   isMusicPlay ? pauseMusic() : playMusic();
   playingSong();
+  imgarea.classList.toggle('player');
 });
 
 //prev music button event
