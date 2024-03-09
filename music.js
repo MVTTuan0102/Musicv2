@@ -22,11 +22,6 @@ window.addEventListener("load", ()=>{
 });
 
 
-playPauseBtn.addEventListener('click',()=>{
-    playPauseBtn.classList.toggle('pause');
-    imgarea.classList.toggle('player');
-});
-
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
@@ -71,6 +66,7 @@ function nextMusic(){
 // play or pause button event
 playPauseBtn.addEventListener("click", ()=>{
   const isMusicPlay = wrapper.classList.contains("paused");
+  imgarea.classList.toggle('player');
   //if isPlayMusic is true then call pauseMusic else call playMusic
   isMusicPlay ? pauseMusic() : playMusic();
   playingSong();
