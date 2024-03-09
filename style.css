@@ -65,7 +65,11 @@ body{
   margin-top: 25px;
   border-radius: 50%;
   box-shadow: 0px 0px 0px 5px var(--white);
-   animation: rotate 20s linear infinite;
+  animation: rotate 20s linear infinite;
+  animation-play-state: paused;
+}
+.img-area.player{
+    animation-play-state: running;
 }
 .img-area::before{
     content: '';
@@ -77,7 +81,7 @@ body{
     height: 40px;
     border-radius: 50%;
     box-shadow: 0px 0px 0px 5px var(--white);
-    background: linear-gradient(#9ce3ff 10%, #fd878d 90%) ;
+    background: linear-gradient(#9ce3ff 10%, #fd878d 90%) 
 }
 .img-area img{
   width: 100%;
