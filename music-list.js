@@ -33,8 +33,8 @@ let allMusic = [
     src: "Nd"
   },
     {
-    name: "1",
-    artist: "1",
+    name: "Chạm khẽ tim anh một chút thôi",
+    artist: "NOO Phước Thịnh",
     img: "jmg7",
     src: "Tn"
     },    
