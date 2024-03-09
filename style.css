@@ -67,6 +67,17 @@ body{
   box-shadow: 0px 0px 0px 5px var(--white);
    animation: rotate 20s linear infinite;
 }
+.img-area::before{
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: linear-gradient(#9ce3ff 10%, #fd878d 90%) ;
+}
 .img-area img{
   width: 100%;
   height: 100%;
