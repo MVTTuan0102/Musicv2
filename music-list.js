@@ -85,8 +85,13 @@ let allMusic = [
     artist: "Shartnuss",
     img: "ncmev",
     src: "ncmev"
-    }
-    
+    },
+    {
+    name: "Tình yêu màu nắng",
+    artist: "Nguyễn Hoàng remix",
+    img: "tymn",
+    src: "tymn"
+}
   ]
   
   
