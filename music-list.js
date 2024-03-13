@@ -97,8 +97,16 @@ let allMusic = [
     artist: "Thanh Hưng - Hương ly cover",
     img: "atd",
     src: "atd"
-}
+},
+    {
+    name: "Tình yêu màu hồng",
+    artist: "Hồ Văn Quý x Xám x Freak D",
+    img: "tymh",
+    src: "tymh"
+    }
   ]
   
   
+
+
   
