@@ -103,6 +103,12 @@ let allMusic = [
     artist: "Hồ Văn Quý x Xám x Freak D",
     img: "tymh",
     src: "tymh"
+    },    
+    {
+    name: "Giấc mơ có thật",
+    artist: "Lệ Quyên",
+    img: "gmct",
+    src: "gmct"
     }
   ]
   
