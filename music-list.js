@@ -88,7 +88,7 @@ let allMusic = [
     },
     {
     name: "Tình yêu màu nắng",
-    artist: "",
+    artist: "x",
     img: "tymn",
     src: "tymn"
 },
