@@ -109,6 +109,12 @@ let allMusic = [
     artist: "Lệ Quyên",
     img: "gmct",
     src: "gmct"
+    },
+        {
+    name: "Mời anh về Tây Bắc",
+    artist: "Sèn Hoàng Mỹ Lam",
+    img: "mavtb",
+    src: "mavtb"
     }
   ]
   
