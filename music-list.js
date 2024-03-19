@@ -115,6 +115,12 @@ let allMusic = [
     artist: "Sèn Hoàng Mỹ Lam",
     img: "mavtb",
     src: "mavtb"
+    },
+    {
+    name: "Hồi kết",
+    artist: "Hà Nhi x DC Tâm",
+    img: "hk",
+    src: "hk"
     }
   ]
   
