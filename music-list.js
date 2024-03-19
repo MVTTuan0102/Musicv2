@@ -60,7 +60,7 @@ let allMusic = [
     name: "Hoa cỏ lau",
     artist: "QN LVK",
     img: "2",
-    src: "2"
+    src: "hcl"
 },
     {
     name: "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
