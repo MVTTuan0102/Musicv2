@@ -87,23 +87,11 @@ let allMusic = [
     src: "ncmev"
     },
     {
-    name: "Tình yêu màu nắng",
-    artist: "x",
-    img: "tymn",
-    src: "tymn"
-},
-    {
     name: "Anh thề đấy",
     artist: "Thanh Hưng - Hương ly cover",
     img: "atd",
     src: "atd"
 },
-    {
-    name: "Tình yêu màu hồng",
-    artist: "Hồ Văn Quý x Xám x Freak D",
-    img: "tymh",
-    src: "tymh"
-    },    
     {
     name: "Giấc mơ có thật",
     artist: "Lệ Quyên",
@@ -121,6 +109,12 @@ let allMusic = [
     artist: "Hà Nhi x DC Tâm",
     img: "hk",
     src: "hk"
+    },
+    {
+    name: "Có hẹn với thanh xuân",
+    artist: "GREY D và Monstar",
+    img: "chvtx",
+    src: "chvtx"
     }
   ]
   
