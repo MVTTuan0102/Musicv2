@@ -115,7 +115,7 @@ let allMusic = [
     artist: "GREY D và Monstar",
     img: "chvtx",
     src: "chvtx"
-    }
+    },
   ];
   
   
