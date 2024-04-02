@@ -116,7 +116,7 @@ let allMusic = [
     img: "chvtx",
     src: "chvtx"
     }
-  ]
+  ];
   
   
 
