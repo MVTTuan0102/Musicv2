@@ -86,6 +86,12 @@ let allMusic = [
     img: "Emonkhong",
     src: "Emonkhong"
     },
+ {
+    name: "Đừng quên tên anh",
+    artist: "Hoa Vinh",
+    img: "dungquentenanh",
+    src: "dungquentenanh"
+    },
     
   ];
   
