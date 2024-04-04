@@ -59,20 +59,20 @@ let allMusic = [
     {
     name: "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
     artist: "O lew",
-    img: "3",
-    src: "3"
+    img: "Aaa",
+    src: "Aaa"
         },
     {
     name: "Chúng ta rồi sẽ hạnh phúc",
     artist: "Jack - J97 x Freak D",
-    img: "4",
-    src: "4"
+    img: "Bbb",
+    src: "Bbb"
 },
     {
     name: "Cuối cùng thì",
     artist: "Jack",
-    img: "5",
-    src: "5"
+    img: "Ccc",
+    src: "Ccc"
     },
     {
     name: "Nắng có mang em về",
