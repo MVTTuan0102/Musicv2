@@ -92,6 +92,12 @@ let allMusic = [
     img: "dungquentenanh",
     src: "dungquentenanh"
     },
+ {
+    name: "Có hẹn với thanh xuân",
+    artist: "GREY D và Monstar",
+    img: "co-hen-voi-thanh-xuan",
+    src: "co-hen-voi-thanh-xuan"
+    },
     
   ];
   
