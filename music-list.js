@@ -98,6 +98,12 @@ let allMusic = [
     img: "cohenvoithanhxuan",
     src: "cohenvoithanhxuan"
     },
+{
+    name: "Giá như anh là người vô tâm",
+    artist: " Hồ Phong An",
+    img: "Gia-nhu-anh-la-nguoi-vo-tam",
+    src: "Gia-nhu-anh-la-nguoi-vo-tam"
+    },
     
   ];
   
