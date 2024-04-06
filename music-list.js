@@ -104,6 +104,12 @@ let allMusic = [
     img: "Gia-nhu-anh-la-nguoi-vo-tam",
     src: "Gia-nhu-anh-la-nguoi-vo-tam"
     },
+ {
+    name: "Anh Đã Quen Với Cô Đơn",
+    artist: "Soobin Hoàng Sơn",
+    img: "anh-da-quen-voi-co-don",
+    src: "anh-da-quen-voi-co-don"
+    },
     
   ];
   
