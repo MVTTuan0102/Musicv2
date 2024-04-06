@@ -110,6 +110,12 @@ let allMusic = [
     img: "anh-da-quen-voi-co-don",
     src: "anh-da-quen-voi-co-don"
     },
+ {
+    name: "Yêu em rất nhiều",
+    artist: "Hoàng Tôn",
+    img: "yeu-em-rat-nhieu",
+    src: "yeu-em-rat-nhieu"
+    },
     
   ];
   
