@@ -116,6 +116,12 @@ let allMusic = [
     img: "yeu-em-rat-nhieu",
     src: "yeu-em-rat-nhieu"
     },
+ {
+    name: "PHỐ ĐÃ LÊN ĐÈN",
+    artist: "HUYỀN TÂM MÔN",
+    img: "pho-da-len-den",
+    src: "pho-da-len-den"
+    },
     
   ];
   
