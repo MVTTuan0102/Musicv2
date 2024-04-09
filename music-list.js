@@ -134,6 +134,12 @@ let allMusic = [
     img: "Ngay-mai-nguoi-ta-lay-chong",
     src: "Ngay-mai-nguoi-ta-lay-chong"
     },
+   {
+    name: "Cô gái ở phương xa",
+    artist: "Hot Douyin",
+    img: "Co-gai-phuong-xa",
+    src: "Co-gai-phuong-xa"
+    },
     
   ];
   
