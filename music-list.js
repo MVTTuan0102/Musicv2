@@ -122,6 +122,12 @@ let allMusic = [
     img: "pho-da-len-den",
     src: "pho-da-len-den"
     },
+ {
+    name: "Ngày em đẹp nhất",
+    artist: "Tama",
+    img: "ngay-em-dep-nhat",
+    src: "ngay-em-dep-nhat"
+    },
     
   ];
   
