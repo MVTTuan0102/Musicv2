@@ -128,6 +128,12 @@ let allMusic = [
     img: "ngay-em-dep-nhat",
     src: "ngay-em-dep-nhat"
     },
+  {
+    name: "Ngày mai người ta lấy chồng",
+    artist: "TINA HO cover",
+    img: "Ngay-mai-nguoi-ta-lay-chong",
+    src: "Ngay-mai-nguoi-ta-lay-chong"
+    },
     
   ];
   
