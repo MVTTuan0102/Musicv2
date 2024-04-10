@@ -140,6 +140,12 @@ let allMusic = [
     img: "Co-gai-phuong-xa",
     src: "Co-gai-phuong-xa"
     },
+ {
+    name: "MỘT NGƯỜI ĐÁNH MẤT MỘT NGƯỜI",
+    artist: "OLEW",
+    img: "Mot-nguoi-danh-mat-mot-nguoi",
+    src: "Mot-nguoi-danh-mat-mot-nguoi"
+    },
     
   ];
   
