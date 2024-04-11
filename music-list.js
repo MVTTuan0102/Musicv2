@@ -146,6 +146,12 @@ let allMusic = [
     img: "Mot-nguoi-danh-mat-mot-nguoi",
     src: "Mot-nguoi-danh-mat-mot-nguoi"
     },
+ {
+    name: "VƯỜN HOA CON CÁ",
+    artist: "OLEW x NGẮN",
+    img: "Vuon-hoa-con-ca",
+    src: "Vuon-hoa-con-ca"
+    },
     
   ];
   
