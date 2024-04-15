@@ -1,3 +1,4 @@
+let now_playing = document.querySelector('.now-playing');
 const wrapper = document.querySelector(".wrapper"),
 musicImg = wrapper.querySelector(".img-area img"),
 musicName = wrapper.querySelector(".song-details .name"),
@@ -10,11 +11,15 @@ progressArea = wrapper.querySelector(".progress-area"),
 progressBar = progressArea.querySelector(".progress-bar"),
 musicList = wrapper.querySelector(".music-list"),
 moreMusicBtn = wrapper.querySelector("#more-music"),
+
 closemoreMusic = musicList.querySelector("#close");
-const imgarea = document.querySelector('.img-area');
 
 let recent_volume = document.querySelector('#volume');
 let volume_show = document.querySelector('#volume_show');
+let wave = document.getElementById('wave');
+
+
+
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 
@@ -22,7 +27,6 @@ window.addEventListener("load", ()=>{
   loadMusic(musicIndex);
   playingSong(); 
 });
-
 
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
@@ -36,6 +40,8 @@ function playMusic(){
   wrapper.classList.add("paused");
   playPauseBtn.querySelector("i").innerText = "pause";
   mainAudio.play();
+  wave.classList.add('loader');
+  musicImg.classList.add('rotate');
 }
 
 //pause music function
@@ -43,6 +49,8 @@ function pauseMusic(){
   wrapper.classList.remove("paused");
   playPauseBtn.querySelector("i").innerText = "play_arrow";
   mainAudio.pause();
+  wave.classList.remove('loader');
+  musicImg.classList.remove('rotate');
 }
 
 //prev music function
@@ -71,7 +79,6 @@ playPauseBtn.addEventListener("click", ()=>{
   //if isPlayMusic is true then call pauseMusic else call playMusic
   isMusicPlay ? pauseMusic() : playMusic();
   playingSong();
-  imgarea.classList.toggle('player');
 });
 
 //prev music button event
@@ -238,7 +245,6 @@ function clicked(element){
   playingSong();
 }
 
-
 //mute sound function
 function mute_sound() {
 	mainAudio.volume = 0;
@@ -251,3 +257,4 @@ function volume_change() {
 	volume_show.innerHTML = recent_volume.value;
 	mainAudio.volume = recent_volume.value / 100;
 }
+	
