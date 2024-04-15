@@ -65,8 +65,8 @@ body{
   animation: animate 5s linear infinite;
 }
 .img-area{
-  width: 80%;
-  height: 220px;
+  width: 70%;
+  height: 200px;
   margin: auto;
   overflow: hidden;
   margin-top: 25px;
