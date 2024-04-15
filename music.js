@@ -16,8 +16,6 @@ closemoreMusic = musicList.querySelector("#close");
 
 let recent_volume = document.querySelector('#volume');
 let volume_show = document.querySelector('#volume_show');
-let wave = document.getElementById('wave');
-
 
 
 let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
@@ -40,7 +38,6 @@ function playMusic(){
   wrapper.classList.add("paused");
   playPauseBtn.querySelector("i").innerText = "pause";
   mainAudio.play();
-  wave.classList.add('loader');
   musicImg.classList.add('rotate');
 }
 
@@ -49,7 +46,6 @@ function pauseMusic(){
   wrapper.classList.remove("paused");
   playPauseBtn.querySelector("i").innerText = "play_arrow";
   mainAudio.pause();
-  wave.classList.remove('loader');
   musicImg.classList.remove('rotate');
 }
 
