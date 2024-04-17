@@ -152,6 +152,12 @@ let allMusic = [
     img: "Vuon-hoa-con-ca",
     src: "Vuon-hoa-con-ca"
     },
+  {
+    name: "Hoa nở bên đường",
+    artist: "producer quỳnh anh",
+    img: "Hoa-no-ben-duong",
+    src: "Hoa-no-ben-duong"
+    },
     
   ];
   
