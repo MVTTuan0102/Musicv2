@@ -162,7 +162,7 @@ let allMusic = [
     name: "Như một người dưng",
     artist: "Nguyễn Thạc Bảo Ngọc",
     img: "Nhu-mot-nguoi-dung",
-    src: "Nhu-mot-nguoi-dung
+    src: "Nhu-mot-nguoi-dung"
   },
     
   ];
