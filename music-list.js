@@ -158,6 +158,12 @@ let allMusic = [
     img: "Hoa-no-ben-duong",
     src: "Hoa-no-ben-duong"
     },
+  {
+    name: "Như một người dưng",
+    artist: "Nguyễn Thạc Bảo Ngọc",
+    img: "Nhu-mot-nguoi-dung",
+    src: "Nhu-mot-nguoi-dung
+  },
     
   ];
   
