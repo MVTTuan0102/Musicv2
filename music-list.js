@@ -164,6 +164,12 @@ let allMusic = [
     img: "Nhu-mot-nguoi-dung",
     src: "Nhu-mot-nguoi-dung"
   },
+ {
+    name: "Dành cho em",
+    artist: "Hoàng Tôn",
+    img: "Dành-Cho-Em",
+    src: "Dành-Cho-Em"
+  },
     
   ];
   
