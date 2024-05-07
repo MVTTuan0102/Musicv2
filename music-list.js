@@ -170,6 +170,12 @@ let allMusic = [
     img: "Dành-Cho-Em",
     src: "Dành-Cho-Em"
   },
+  {
+    name: "Call girl",
+    artist: "Trung Tự",
+    img: "Call-girl",
+    src: "Call-girl"
+  },
     
   ];
   
