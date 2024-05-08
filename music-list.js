@@ -189,6 +189,18 @@ let allMusic = [
     img: "Chạnh-lòng-thương-cô",
     src: "Chạnh-lòng-thương-cô"
   },
+  {
+    name: "GIÁ NHƯ EM NHÌN LẠI",
+    artist: "JSOL x VIRUSS",
+    img: "Gia-nhu-em-nhin-lai",
+    src: "Gia-nhu-em-nhin-lai"
+  },
+  {
+    name: "Sợ",
+    artist: "Reddy",
+    img: "Sợ",
+    src: "Sợ"
+  },
  
   ];
   
