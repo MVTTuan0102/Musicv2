@@ -182,8 +182,14 @@ let allMusic = [
     img: "Khi-nào",
     src: "Khi-nào"
   },
+
+ {
+    name: "Chạnh lòng thương cô",
+    artist: "Remix  Huy Vạc ft Non Hanta",
+    img: "Chạnh-lòng-thương-cô",
+    src: "Chạnh-lòng-thương-cô"
+  },
  
   ];
-  
   
   
