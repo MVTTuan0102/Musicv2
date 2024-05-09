@@ -201,6 +201,13 @@ let allMusic = [
     img: "Sợ",
     src: "Sợ"
   },
+  {
+    name: "KÉM DUYÊN",
+    artist: "RUM X NIT X MASEW",
+    img: "Kém-duyên",
+    src: "Kém-duyên"
+  },
+   
  
   ];
   
