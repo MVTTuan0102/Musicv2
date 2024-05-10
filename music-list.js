@@ -207,6 +207,13 @@ let allMusic = [
     img: "Kém-duyên",
     src: "Kém-duyên"
   },
+
+ {
+    name: "Anh thề đấy",
+    artist: "Thanh Hưng",
+    img: "Anh-the-day",
+    src: "Anh-the-day"
+  },
    
  
   ];
