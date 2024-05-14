@@ -222,6 +222,12 @@ let allMusic = [
     img: "Yeu-khong-can-hua",
     src: "Yeu-khong-can-hua"
   },
+ {
+    name: "Cẩm tú cầu",
+    artist: "RAYO x HUỲNH VĂN",
+    img: "Cam-tu-cau",
+    src: "Cam-tu-cau"
+  },
    
  
   ];
