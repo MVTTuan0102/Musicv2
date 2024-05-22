@@ -228,6 +228,13 @@ let allMusic = [
     img: "Cam-tu-cau",
     src: "Cam-tu-cau"
   },
+
+ {
+    name: "Trời giấu trời mang đi",
+    artist: "Amee",
+    img: "Troi-giau-troi-mang-di",
+    src: "Troi-giau-troi-mang-di"
+  },
    
  
   ];
