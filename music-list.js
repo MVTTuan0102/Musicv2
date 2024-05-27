@@ -235,6 +235,12 @@ let allMusic = [
     img: "Troi-giau-troi-mang-di",
     src: "Troi-giau-troi-mang-di"
   },
+ {
+    name: "Đừng hòng",
+    artist: "Ngô Trúc Linh",
+    img: "Dung-hong",
+    src: "Dung-hong"
+  },
    
  
   ];
