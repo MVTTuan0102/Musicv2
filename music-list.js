@@ -241,7 +241,12 @@ let allMusic = [
     img: "Dung-hong",
     src: "Dung-hong"
   },
-   
+   {
+    name: "Nếu biết đó là lần cuối",
+    artist: "Đức Trường",
+    img: "Neu-biet-do-la-lan-cuoi",
+    src: "Neu-biet-do-la-lan-cuoi"
+  },
  
   ];
   
